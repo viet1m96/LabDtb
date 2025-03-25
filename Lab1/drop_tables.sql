@@ -1,0 +1,10 @@
+SET search_path TO :schema_name;
+DROP TABLE satelite_info;
+DROP TABLE satelites;
+DROP TABLE planets_arguments;
+DROP TABLE characters_planets;
+DROP TABLE planet_climate;
+DROP TABLE arguments;
+DROP TABLE characters;
+DROP TABLE planets;
+DROP TABLE sun_systems;
